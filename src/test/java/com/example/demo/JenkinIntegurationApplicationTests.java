@@ -8,6 +8,7 @@ class JenkinIntegurationApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 	}
 
 }
