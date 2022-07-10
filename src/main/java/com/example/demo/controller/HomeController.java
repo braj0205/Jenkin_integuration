@@ -12,6 +12,6 @@ public class HomeController {
 	private String getHome() {
 		// TODO Auto-generated method stub
 
-		return "Buxra0";
+		return "suhhhaaaannnnniiiii";
 	} 
 }
